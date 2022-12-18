@@ -1,3 +1,13 @@
+# About Me
+
+I'm an ex-management consultant turned data scientist. I graduated from Colgate University with a degree in Neuroscience and will complete my Master's in Information and Data Science at UC Berkeley in December 2023. 
+
+# Interests
+
+I'm interested in figuring out how to apply machine learning within contexts where it has traditionally not been exploited at scale. There is tremendous opportunity for machine learning models to disrupt sectors like finance, medicine, legal, and professional services industries.
+
+When I'm not working or in class, I like to golf, ski, mountain bike, cook, and spend time with my family (including my dog).
+
 # Recent Work
 
 ### [Classification of Direct- and Quasi-identifiers with Transformers](https://github.com/jvgalvin/nlp_ner)
