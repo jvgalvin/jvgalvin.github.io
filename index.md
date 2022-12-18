@@ -2,7 +2,7 @@
 
 I'm an ex-management consultant turned data scientist. I graduated from Colgate University with a degree in Neuroscience and will complete my Master's in Information and Data Science at UC Berkeley in December 2023. 
 
-**jgalvin (at) berkeley (dot) edu**
+*jgalvin (at) berkeley (dot) edu*
 
 # Interests
 
