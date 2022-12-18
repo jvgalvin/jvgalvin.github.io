@@ -37,3 +37,5 @@ I love to cook and make cocktails ;). Sometimes, though, it's more work to figur
 ### [Bitcoin Whales - When to Buy](https://github.com/jvgalvin/Portfolio/tree/main/Bitcoin_Whale_Analysis)
 
 Bitcoin exploded a few years ago. Some people and organizations that hold an enormous share of the market, known as "whales," have the power to move the market based on their trading activity. I used an ensemble method to predict whether or not these whales would sell Bitcoin within the next 24 hours. Although I don't buy and sell Bitcoin myself, the idea is that this could be used to profit by shortselling Bitcoin.
+
+## [View my resume here](https://github.com/jvgalvin/jvgalvin.github.io/blob/main/docs/Jack_Galvin_Resume_(12_11_22).pdf)
