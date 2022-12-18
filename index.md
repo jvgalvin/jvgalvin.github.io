@@ -2,6 +2,8 @@
 
 I'm an ex-management consultant turned data scientist. I graduated from Colgate University with a degree in Neuroscience and will complete my Master's in Information and Data Science at UC Berkeley in December 2023. 
 
+**jgalvin (at) berkeley (dot) edu**
+
 # Interests
 
 I'm interested in figuring out how to apply machine learning within contexts where it has traditionally not been exploited at scale. There is tremendous opportunity for machine learning models to disrupt sectors like finance, medicine, legal, and professional services industries.
